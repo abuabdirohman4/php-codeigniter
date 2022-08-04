@@ -1,1 +1,1 @@
-# php-codeigniter
+# CodeIgniter
