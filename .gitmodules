@@ -1,0 +1,8 @@
+[submodule "codeigniter-accounting-store"]
+	path = codeigniter-accounting-store
+	url = git@github.com:abuabdirohman4/codeigniter-accounting-store.git
+	branch = master
+[submodule "codeigniter-rest-api"]
+	path = codeigniter-rest-api
+	url = git@github.com:abuabdirohman4/codeigniter-rest-api.git
+	branch = main
